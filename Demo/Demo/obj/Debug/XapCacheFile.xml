@@ -1,0 +1,12 @@
+﻿<xapCache source="F:\Workplace\Demo\Demo\Bin\Debug\Demo_Debug_AnyCPU.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2014/2/25 23:00:49">
+  <file source="F:\Workplace\Demo\Demo\obj\Debug\Demo.dll" archivePath="Demo.dll" lastWriteTime="2014/2/25 23:00:43" />
+  <file source="F:\Workplace\Demo\Demo\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2014/2/25 23:00:08" />
+  <file source="F:\Workplace\Demo\Demo\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2014/2/25 23:00:08" />
+  <file source="F:\Workplace\Demo\Demo\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2014/2/25 23:00:08" />
+  <file source="F:\Workplace\Demo\Demo\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2014/2/25 23:00:08" />
+  <file source="F:\Workplace\Demo\Demo\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2014/2/25 23:00:08" />
+  <file source="F:\Workplace\Demo\Demo\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/2/25 23:00:45" />
+  <file source="F:\Workplace\Demo\Demo\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2014/2/25 23:00:08" />
+  <file source="F:\Workplace\Demo\Demo\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2014/2/25 23:00:08" />
+  <file source="F:\Workplace\Demo\Demo\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/2/25 23:00:48" />
+</xapCache>
